@@ -1,0 +1,25 @@
+{
+    "name":        "browserify-replace",
+    "version":     "0.9.0",
+    "description": "Browserify Transform for Replacing Strings",
+    "keywords":    [ "browserify-plugin", "browserify", "plugin", "replace" ],
+    "main":        "index.js",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/rse/browserify-replace.git"
+    },
+    "author": {
+        "name":  "Ralf S. Engelschall",
+        "email": "rse@engelschall.com",
+        "url":   "http://engelschall.com"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url":  "http://opensource.org/licenses/MIT"
+    }],
+    "homepage": "https://github.com/rse/browserify-replace",
+    "bugs":     "https://github.com/rse/browserify-replace/issues",
+    "dependencies": {
+        "through2": "^1.1.1"
+    }
+}
