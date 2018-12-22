@@ -1,6 +1,6 @@
 {
     "name":        "browserify-replace",
-    "version":     "0.9.3",
+    "version":     "1.0.0",
     "description": "Browserify Transform for Replacing Strings",
     "keywords":    [ "browserify-plugin", "browserify", "plugin", "replace" ],
     "main":        "index.js",
