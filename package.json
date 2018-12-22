@@ -20,6 +20,6 @@
     "homepage": "https://github.com/rse/browserify-replace",
     "bugs":     "https://github.com/rse/browserify-replace/issues",
     "dependencies": {
-        "through2": "2.0.3"
+        "through2": "3.0.0"
     }
 }
